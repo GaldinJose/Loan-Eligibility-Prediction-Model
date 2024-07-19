@@ -65,3 +65,5 @@ This project was guided by the YouTube tutorial [Loan Eligibility Prediction usi
 ### Contributing
 
 Feel free to contribute to this project by submitting pull requests or opening issues. Contributions are welcome and appreciated.
+
+Datasets obtained from : https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
