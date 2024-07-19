@@ -59,7 +59,8 @@ This project aims to develop a robust machine learning model to predict loan eli
 - **Feature Selection**: Implement feature selection techniques to further improve model accuracy.
 - 
 ### Reference
-This project was guided by the YouTube tutorial Loan Eligibility Prediction using Python, which provided valuable insights and instructions throughout the development process.
+
+This project was guided by the YouTube tutorial [Loan Eligibility Prediction using Python](https://www.youtube.com/watch?v=T9kgWBmUIRk), which provided valuable insights and instructions throughout the development process.
 
 ### Contributing
 
